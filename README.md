@@ -1,9 +1,13 @@
-<img src="https://ggsonic.github.io/tiny-style-transfer/result.png" width="512"/>
+<img src="https://github.com/ggsonic/tiny-style-transfer/result.png" width="512"/>
+
 # tiny-style-transfer
+
 tiny pytorch implementation of neural style transfer.Keep it minimal and one click to run!
 
-##Setup
+## Setup
+
 - install PyTorch,PIL,hickle,numpy
+
 ```bash
 git clone https://github.com/ggsonic/tiny-style-transfer.git
 ```
@@ -15,6 +19,7 @@ or
 python -u tiny.py
 ```
 ##Notes:
+
 - use torchvision pretrained models
 - use l1_norm loss to make style weights and content weights in same unit
 
