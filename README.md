@@ -6,7 +6,7 @@ tiny pytorch implementation of neural style transfer.Keep it minimal and one cli
 
 ## Setup
 
-- install PyTorch,PIL,hickle,numpy
+- install PyTorch,PIL,numpy
 - get the code
 
 ```bash
