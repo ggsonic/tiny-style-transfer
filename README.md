@@ -1,4 +1,4 @@
-<img src="https://github.com/ggsonic/tiny-style-transfer/result.png" width="512"/>
+<img src="https://github.com/ggsonic/tiny-style-transfer/blob/master/result.png" width="512"/>
 
 # tiny-style-transfer
 
@@ -18,7 +18,8 @@ or
 ```bash
 python -u tiny.py
 ```
-##Notes:
+
+## Notes
 
 - use torchvision pretrained models
 - use l1_norm loss to make style weights and content weights in same unit
